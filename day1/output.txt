@@ -1,0 +1,1999 @@
+362  (N/A - no previous measurement)
+369  (increased), with increase:  1
+382  (increased), with increase:  2
+391  (increased), with increase:  3
+403  (increased), with increase:  4
+404  (increased), with increase:  5
+408  (increased), with increase:  6
+408  (decreased)
+411  (increased), with increase:  7
+414  (increased), with increase:  8
+440  (increased), with increase:  9
+472  (increased), with increase:  10
+504  (increased), with increase:  11
+500  (decreased)
+491  (decreased)
+482  (decreased)
+479  (decreased)
+473  (decreased)
+462  (decreased)
+474  (increased), with increase:  12
+491  (increased), with increase:  13
+506  (increased), with increase:  14
+497  (decreased)
+505  (increased), with increase:  15
+526  (increased), with increase:  16
+539  (increased), with increase:  17
+520  (decreased)
+495  (decreased)
+484  (decreased)
+506  (increased), with increase:  18
+526  (increased), with increase:  19
+550  (increased), with increase:  20
+542  (decreased)
+533  (decreased)
+522  (decreased)
+524  (increased), with increase:  21
+543  (increased), with increase:  22
+560  (increased), with increase:  23
+573  (increased), with increase:  24
+600  (increased), with increase:  25
+634  (increased), with increase:  26
+670  (increased), with increase:  27
+667  (decreased)
+668  (increased), with increase:  28
+672  (increased), with increase:  29
+690  (increased), with increase:  30
+700  (increased), with increase:  31
+714  (increased), with increase:  32
+715  (increased), with increase:  33
+724  (increased), with increase:  34
+746  (increased), with increase:  35
+810  (increased), with increase:  36
+865  (increased), with increase:  37
+880  (increased), with increase:  38
+872  (decreased)
+881  (increased), with increase:  39
+903  (increased), with increase:  40
+945  (increased), with increase:  41
+968  (increased), with increase:  42
+974  (increased), with increase:  43
+953  (decreased)
+934  (decreased)
+939  (increased), with increase:  44
+942  (increased), with increase:  45
+968  (increased), with increase:  46
+1005  (increased), with increase:  47
+1043  (increased), with increase:  48
+1056  (increased), with increase:  49
+1043  (decreased)
+1033  (decreased)
+1018  (decreased)
+1026  (increased), with increase:  50
+1021  (decreased)
+1019  (decreased)
+1005  (decreased)
+996  (decreased)
+1006  (increased), with increase:  51
+1021  (increased), with increase:  52
+1024  (increased), with increase:  53
+1018  (decreased)
+1025  (increased), with increase:  54
+1066  (increased), with increase:  55
+1103  (increased), with increase:  56
+1146  (increased), with increase:  57
+1173  (increased), with increase:  58
+1198  (increased), with increase:  59
+1234  (increased), with increase:  60
+1268  (increased), with increase:  61
+1307  (increased), with increase:  62
+1308  (increased), with increase:  63
+1312  (increased), with increase:  64
+1315  (increased), with increase:  65
+1329  (increased), with increase:  66
+1343  (increased), with increase:  67
+1356  (increased), with increase:  68
+1358  (increased), with increase:  69
+1365  (increased), with increase:  70
+1372  (increased), with increase:  71
+1386  (increased), with increase:  72
+1415  (increased), with increase:  73
+1444  (increased), with increase:  74
+1468  (increased), with increase:  75
+1486  (increased), with increase:  76
+1501  (increased), with increase:  77
+1529  (increased), with increase:  78
+1546  (increased), with increase:  79
+1563  (increased), with increase:  80
+1569  (increased), with increase:  81
+1592  (increased), with increase:  82
+1619  (increased), with increase:  83
+1650  (increased), with increase:  84
+1658  (increased), with increase:  85
+1660  (increased), with increase:  86
+1669  (increased), with increase:  87
+1674  (increased), with increase:  88
+1688  (increased), with increase:  89
+1695  (increased), with increase:  90
+1692  (decreased)
+1682  (decreased)
+1690  (increased), with increase:  91
+1715  (increased), with increase:  92
+1740  (increased), with increase:  93
+1754  (increased), with increase:  94
+1766  (increased), with increase:  95
+1778  (increased), with increase:  96
+1782  (increased), with increase:  97
+1787  (increased), with increase:  98
+1795  (increased), with increase:  99
+1811  (increased), with increase:  100
+1836  (increased), with increase:  101
+1838  (increased), with increase:  102
+1840  (increased), with increase:  103
+1820  (decreased)
+1823  (increased), with increase:  104
+1822  (decreased)
+1835  (increased), with increase:  105
+1840  (increased), with increase:  106
+1841  (increased), with increase:  107
+1837  (decreased)
+1823  (decreased)
+1817  (decreased)
+1827  (increased), with increase:  108
+1848  (increased), with increase:  109
+1877  (increased), with increase:  110
+1893  (increased), with increase:  111
+1913  (increased), with increase:  112
+1914  (increased), with increase:  113
+1935  (increased), with increase:  114
+1953  (increased), with increase:  115
+1993  (increased), with increase:  116
+2012  (increased), with increase:  117
+2034  (increased), with increase:  118
+2012  (decreased)
+1985  (decreased)
+1961  (decreased)
+1960  (decreased)
+1971  (increased), with increase:  119
+1982  (increased), with increase:  120
+2000  (increased), with increase:  121
+2011  (increased), with increase:  122
+2021  (increased), with increase:  123
+2032  (increased), with increase:  124
+2043  (increased), with increase:  125
+2060  (increased), with increase:  126
+2065  (increased), with increase:  127
+2072  (increased), with increase:  128
+2077  (increased), with increase:  129
+2091  (increased), with increase:  130
+2104  (increased), with increase:  131
+2112  (increased), with increase:  132
+2117  (increased), with increase:  133
+2123  (increased), with increase:  134
+2126  (increased), with increase:  135
+2144  (increased), with increase:  136
+2165  (increased), with increase:  137
+2185  (increased), with increase:  138
+2227  (increased), with increase:  139
+2275  (increased), with increase:  140
+2326  (increased), with increase:  141
+2366  (increased), with increase:  142
+2393  (increased), with increase:  143
+2421  (increased), with increase:  144
+2429  (increased), with increase:  145
+2435  (increased), with increase:  146
+2438  (increased), with increase:  147
+2442  (increased), with increase:  148
+2450  (increased), with increase:  149
+2460  (increased), with increase:  150
+2463  (increased), with increase:  151
+2469  (increased), with increase:  152
+2460  (decreased)
+2448  (decreased)
+2442  (decreased)
+2447  (increased), with increase:  153
+2440  (decreased)
+2428  (decreased)
+2437  (increased), with increase:  154
+2465  (increased), with increase:  155
+2494  (increased), with increase:  156
+2510  (increased), with increase:  157
+2518  (increased), with increase:  158
+2521  (increased), with increase:  159
+2506  (decreased)
+2505  (decreased)
+2505  (decreased)
+2519  (increased), with increase:  160
+2523  (increased), with increase:  161
+2531  (increased), with increase:  162
+2531  (decreased)
+2527  (decreased)
+2518  (decreased)
+2515  (decreased)
+2516  (increased), with increase:  163
+2518  (increased), with increase:  164
+2501  (decreased)
+2474  (decreased)
+2446  (decreased)
+2421  (decreased)
+2426  (increased), with increase:  165
+2433  (increased), with increase:  166
+2482  (increased), with increase:  167
+2519  (increased), with increase:  168
+2556  (increased), with increase:  169
+2569  (increased), with increase:  170
+2581  (increased), with increase:  171
+2593  (increased), with increase:  172
+2605  (increased), with increase:  173
+2620  (increased), with increase:  174
+2633  (increased), with increase:  175
+2651  (increased), with increase:  176
+2659  (increased), with increase:  177
+2668  (increased), with increase:  178
+2666  (decreased)
+2668  (increased), with increase:  179
+2678  (increased), with increase:  180
+2722  (increased), with increase:  181
+2771  (increased), with increase:  182
+2814  (increased), with increase:  183
+2827  (increased), with increase:  184
+2845  (increased), with increase:  185
+2853  (increased), with increase:  186
+2826  (decreased)
+2771  (decreased)
+2724  (decreased)
+2715  (decreased)
+2722  (increased), with increase:  187
+2732  (increased), with increase:  188
+2732  (decreased)
+2728  (decreased)
+2720  (decreased)
+2732  (increased), with increase:  189
+2747  (increased), with increase:  190
+2763  (increased), with increase:  191
+2769  (increased), with increase:  192
+2772  (increased), with increase:  193
+2778  (increased), with increase:  194
+2784  (increased), with increase:  195
+2796  (increased), with increase:  196
+2804  (increased), with increase:  197
+2808  (increased), with increase:  198
+2825  (increased), with increase:  199
+2850  (increased), with increase:  200
+2883  (increased), with increase:  201
+2910  (increased), with increase:  202
+2929  (increased), with increase:  203
+2964  (increased), with increase:  204
+2989  (increased), with increase:  205
+3014  (increased), with increase:  206
+3022  (increased), with increase:  207
+3030  (increased), with increase:  208
+3038  (increased), with increase:  209
+3042  (increased), with increase:  210
+3045  (increased), with increase:  211
+3046  (increased), with increase:  212
+3026  (decreased)
+3012  (decreased)
+3015  (increased), with increase:  213
+3040  (increased), with increase:  214
+3069  (increased), with increase:  215
+3094  (increased), with increase:  216
+3112  (increased), with increase:  217
+3120  (increased), with increase:  218
+3117  (decreased)
+3120  (increased), with increase:  219
+3124  (increased), with increase:  220
+3121  (decreased)
+3121  (decreased)
+3128  (increased), with increase:  221
+3143  (increased), with increase:  222
+3150  (increased), with increase:  223
+3149  (decreased)
+3147  (decreased)
+3152  (increased), with increase:  224
+3160  (increased), with increase:  225
+3174  (increased), with increase:  226
+3188  (increased), with increase:  227
+3199  (increased), with increase:  228
+3213  (increased), with increase:  229
+3232  (increased), with increase:  230
+3262  (increased), with increase:  231
+3287  (increased), with increase:  232
+3320  (increased), with increase:  233
+3360  (increased), with increase:  234
+3371  (increased), with increase:  235
+3367  (decreased)
+3358  (decreased)
+3374  (increased), with increase:  236
+3402  (increased), with increase:  237
+3411  (increased), with increase:  238
+3422  (increased), with increase:  239
+3429  (increased), with increase:  240
+3444  (increased), with increase:  241
+3449  (increased), with increase:  242
+3454  (increased), with increase:  243
+3458  (increased), with increase:  244
+3457  (decreased)
+3448  (decreased)
+3438  (decreased)
+3438  (decreased)
+3436  (decreased)
+3447  (increased), with increase:  245
+3465  (increased), with increase:  246
+3488  (increased), with increase:  247
+3501  (increased), with increase:  248
+3512  (increased), with increase:  249
+3521  (increased), with increase:  250
+3538  (increased), with increase:  251
+3571  (increased), with increase:  252
+3600  (increased), with increase:  253
+3620  (increased), with increase:  254
+3625  (increased), with increase:  255
+3636  (increased), with increase:  256
+3650  (increased), with increase:  257
+3669  (increased), with increase:  258
+3686  (increased), with increase:  259
+3713  (increased), with increase:  260
+3735  (increased), with increase:  261
+3771  (increased), with increase:  262
+3753  (decreased)
+3735  (decreased)
+3708  (decreased)
+3718  (increased), with increase:  263
+3729  (increased), with increase:  264
+3734  (increased), with increase:  265
+3756  (increased), with increase:  266
+3776  (increased), with increase:  267
+3788  (increased), with increase:  268
+3785  (decreased)
+3798  (increased), with increase:  269
+3819  (increased), with increase:  270
+3840  (increased), with increase:  271
+3846  (increased), with increase:  272
+3850  (increased), with increase:  273
+3854  (increased), with increase:  274
+3865  (increased), with increase:  275
+3881  (increased), with increase:  276
+3898  (increased), with increase:  277
+3921  (increased), with increase:  278
+3933  (increased), with increase:  279
+3944  (increased), with increase:  280
+3950  (increased), with increase:  281
+3980  (increased), with increase:  282
+4011  (increased), with increase:  283
+4047  (increased), with increase:  284
+4054  (increased), with increase:  285
+4073  (increased), with increase:  286
+4079  (increased), with increase:  287
+4096  (increased), with increase:  288
+4079  (decreased)
+4059  (decreased)
+4062  (increased), with increase:  289
+4101  (increased), with increase:  290
+4140  (increased), with increase:  291
+4168  (increased), with increase:  292
+4184  (increased), with increase:  293
+4200  (increased), with increase:  294
+4199  (decreased)
+4195  (decreased)
+4193  (decreased)
+4192  (decreased)
+4195  (increased), with increase:  295
+4206  (increased), with increase:  296
+4230  (increased), with increase:  297
+4257  (increased), with increase:  298
+4292  (increased), with increase:  299
+4318  (increased), with increase:  300
+4350  (increased), with increase:  301
+4364  (increased), with increase:  302
+4383  (increased), with increase:  303
+4396  (increased), with increase:  304
+4418  (increased), with increase:  305
+4428  (increased), with increase:  306
+4431  (increased), with increase:  307
+4425  (decreased)
+4432  (increased), with increase:  308
+4441  (increased), with increase:  309
+4452  (increased), with increase:  310
+4465  (increased), with increase:  311
+4478  (increased), with increase:  312
+4485  (increased), with increase:  313
+4486  (increased), with increase:  314
+4487  (increased), with increase:  315
+4494  (increased), with increase:  316
+4510  (increased), with increase:  317
+4533  (increased), with increase:  318
+4560  (increased), with increase:  319
+4582  (increased), with increase:  320
+4596  (increased), with increase:  321
+4612  (increased), with increase:  322
+4597  (decreased)
+4583  (decreased)
+4548  (decreased)
+4563  (increased), with increase:  323
+4579  (increased), with increase:  324
+4610  (increased), with increase:  325
+4622  (increased), with increase:  326
+4631  (increased), with increase:  327
+4635  (increased), with increase:  328
+4654  (increased), with increase:  329
+4661  (increased), with increase:  330
+4693  (increased), with increase:  331
+4706  (increased), with increase:  332
+4716  (increased), with increase:  333
+4700  (decreased)
+4687  (decreased)
+4693  (increased), with increase:  334
+4703  (increased), with increase:  335
+4710  (increased), with increase:  336
+4714  (increased), with increase:  337
+4720  (increased), with increase:  338
+4722  (increased), with increase:  339
+4745  (increased), with increase:  340
+4766  (increased), with increase:  341
+4786  (increased), with increase:  342
+4787  (increased), with increase:  343
+4786  (decreased)
+4785  (decreased)
+4785  (decreased)
+4767  (decreased)
+4730  (decreased)
+4709  (decreased)
+4715  (increased), with increase:  344
+4745  (increased), with increase:  345
+4753  (increased), with increase:  346
+4763  (increased), with increase:  347
+4776  (increased), with increase:  348
+4800  (increased), with increase:  349
+4819  (increased), with increase:  350
+4835  (increased), with increase:  351
+4833  (decreased)
+4828  (decreased)
+4835  (increased), with increase:  352
+4877  (increased), with increase:  353
+4883  (increased), with increase:  354
+4877  (decreased)
+4835  (decreased)
+4830  (decreased)
+4825  (decreased)
+4844  (increased), with increase:  355
+4873  (increased), with increase:  356
+4903  (increased), with increase:  357
+4895  (decreased)
+4912  (increased), with increase:  358
+4933  (increased), with increase:  359
+4960  (increased), with increase:  360
+4953  (decreased)
+4941  (decreased)
+4950  (increased), with increase:  361
+4977  (increased), with increase:  362
+5002  (increased), with increase:  363
+5030  (increased), with increase:  364
+5034  (increased), with increase:  365
+5042  (increased), with increase:  366
+5044  (increased), with increase:  367
+5060  (increased), with increase:  368
+5074  (increased), with increase:  369
+5090  (increased), with increase:  370
+5095  (increased), with increase:  371
+5100  (increased), with increase:  372
+5105  (increased), with increase:  373
+5114  (increased), with increase:  374
+5142  (increased), with increase:  375
+5170  (increased), with increase:  376
+5200  (increased), with increase:  377
+5213  (increased), with increase:  378
+5227  (increased), with increase:  379
+5236  (increased), with increase:  380
+5240  (increased), with increase:  381
+5247  (increased), with increase:  382
+5243  (decreased)
+5249  (increased), with increase:  383
+5245  (decreased)
+5251  (increased), with increase:  384
+5257  (increased), with increase:  385
+5270  (increased), with increase:  386
+5287  (increased), with increase:  387
+5300  (increased), with increase:  388
+5310  (increased), with increase:  389
+5304  (decreased)
+5296  (decreased)
+5308  (increased), with increase:  390
+5351  (increased), with increase:  391
+5397  (increased), with increase:  392
+5405  (increased), with increase:  393
+5388  (decreased)
+5385  (decreased)
+5402  (increased), with increase:  394
+5430  (increased), with increase:  395
+5441  (increased), with increase:  396
+5460  (increased), with increase:  397
+5466  (increased), with increase:  398
+5473  (increased), with increase:  399
+5468  (decreased)
+5471  (increased), with increase:  400
+5488  (increased), with increase:  401
+5505  (increased), with increase:  402
+5514  (increased), with increase:  403
+5513  (decreased)
+5515  (increased), with increase:  404
+5545  (increased), with increase:  405
+5567  (increased), with increase:  406
+5590  (increased), with increase:  407
+5593  (increased), with increase:  408
+5599  (increased), with increase:  409
+5612  (increased), with increase:  410
+5633  (increased), with increase:  411
+5662  (increased), with increase:  412
+5689  (increased), with increase:  413
+5708  (increased), with increase:  414
+5724  (increased), with increase:  415
+5727  (increased), with increase:  416
+5736  (increased), with increase:  417
+5753  (increased), with increase:  418
+5773  (increased), with increase:  419
+5780  (increased), with increase:  420
+5775  (decreased)
+5774  (decreased)
+5780  (increased), with increase:  421
+5794  (increased), with increase:  422
+5805  (increased), with increase:  423
+5823  (increased), with increase:  424
+5831  (increased), with increase:  425
+5847  (increased), with increase:  426
+5856  (increased), with increase:  427
+5868  (increased), with increase:  428
+5875  (increased), with increase:  429
+5871  (decreased)
+5857  (decreased)
+5845  (decreased)
+5848  (increased), with increase:  430
+5862  (increased), with increase:  431
+5874  (increased), with increase:  432
+5882  (increased), with increase:  433
+5887  (increased), with increase:  434
+5886  (decreased)
+5880  (decreased)
+5874  (decreased)
+5889  (increased), with increase:  435
+5923  (increased), with increase:  436
+5959  (increased), with increase:  437
+5986  (increased), with increase:  438
+6000  (increased), with increase:  439
+6017  (increased), with increase:  440
+6025  (increased), with increase:  441
+6041  (increased), with increase:  442
+6072  (increased), with increase:  443
+6105  (increased), with increase:  444
+6131  (increased), with increase:  445
+6136  (increased), with increase:  446
+6137  (increased), with increase:  447
+6139  (increased), with increase:  448
+6157  (increased), with increase:  449
+6187  (increased), with increase:  450
+6214  (increased), with increase:  451
+6235  (increased), with increase:  452
+6249  (increased), with increase:  453
+6268  (increased), with increase:  454
+6280  (increased), with increase:  455
+6284  (increased), with increase:  456
+6273  (decreased)
+6257  (decreased)
+6249  (decreased)
+6260  (increased), with increase:  457
+6275  (increased), with increase:  458
+6290  (increased), with increase:  459
+6294  (increased), with increase:  460
+6298  (increased), with increase:  461
+6303  (increased), with increase:  462
+6317  (increased), with increase:  463
+6334  (increased), with increase:  464
+6335  (increased), with increase:  465
+6331  (decreased)
+6322  (decreased)
+6321  (decreased)
+6318  (decreased)
+6312  (decreased)
+6322  (increased), with increase:  466
+6361  (increased), with increase:  467
+6396  (increased), with increase:  468
+6421  (increased), with increase:  469
+6419  (decreased)
+6395  (decreased)
+6376  (decreased)
+6373  (decreased)
+6406  (increased), with increase:  470
+6439  (increased), with increase:  471
+6490  (increased), with increase:  472
+6534  (increased), with increase:  473
+6578  (increased), with increase:  474
+6581  (increased), with increase:  475
+6596  (increased), with increase:  476
+6615  (increased), with increase:  477
+6647  (increased), with increase:  478
+6671  (increased), with increase:  479
+6687  (increased), with increase:  480
+6720  (increased), with increase:  481
+6754  (increased), with increase:  482
+6758  (increased), with increase:  483
+6764  (increased), with increase:  484
+6789  (increased), with increase:  485
+6859  (increased), with increase:  486
+6902  (increased), with increase:  487
+6928  (increased), with increase:  488
+6941  (increased), with increase:  489
+6956  (increased), with increase:  490
+6918  (decreased)
+6878  (decreased)
+6827  (decreased)
+6829  (increased), with increase:  491
+6835  (increased), with increase:  492
+6854  (increased), with increase:  493
+6872  (increased), with increase:  494
+6903  (increased), with increase:  495
+6930  (increased), with increase:  496
+6953  (increased), with increase:  497
+6966  (increased), with increase:  498
+6979  (increased), with increase:  499
+6982  (increased), with increase:  500
+6979  (decreased)
+6976  (decreased)
+6984  (increased), with increase:  501
+6994  (increased), with increase:  502
+7008  (increased), with increase:  503
+7025  (increased), with increase:  504
+7041  (increased), with increase:  505
+7086  (increased), with increase:  506
+7134  (increased), with increase:  507
+7183  (increased), with increase:  508
+7197  (increased), with increase:  509
+7202  (increased), with increase:  510
+7219  (increased), with increase:  511
+7238  (increased), with increase:  512
+7266  (increased), with increase:  513
+7280  (increased), with increase:  514
+7291  (increased), with increase:  515
+7290  (decreased)
+7264  (decreased)
+7235  (decreased)
+7241  (increased), with increase:  516
+7270  (increased), with increase:  517
+7312  (increased), with increase:  518
+7341  (increased), with increase:  519
+7384  (increased), with increase:  520
+7420  (increased), with increase:  521
+7438  (increased), with increase:  522
+7442  (increased), with increase:  523
+7449  (increased), with increase:  524
+7458  (increased), with increase:  525
+7467  (increased), with increase:  526
+7473  (increased), with increase:  527
+7479  (increased), with increase:  528
+7485  (increased), with increase:  529
+7492  (increased), with increase:  530
+7503  (increased), with increase:  531
+7531  (increased), with increase:  532
+7554  (increased), with increase:  533
+7570  (increased), with increase:  534
+7567  (decreased)
+7566  (decreased)
+7569  (increased), with increase:  535
+7578  (increased), with increase:  536
+7587  (increased), with increase:  537
+7586  (decreased)
+7581  (decreased)
+7588  (increased), with increase:  538
+7596  (increased), with increase:  539
+7604  (increased), with increase:  540
+7609  (increased), with increase:  541
+7620  (increased), with increase:  542
+7617  (decreased)
+7614  (decreased)
+7616  (increased), with increase:  543
+7635  (increased), with increase:  544
+7647  (increased), with increase:  545
+7654  (increased), with increase:  546
+7658  (increased), with increase:  547
+7659  (increased), with increase:  548
+7668  (increased), with increase:  549
+7680  (increased), with increase:  550
+7679  (decreased)
+7700  (increased), with increase:  551
+7721  (increased), with increase:  552
+7771  (increased), with increase:  553
+7793  (increased), with increase:  554
+7810  (increased), with increase:  555
+7819  (increased), with increase:  556
+7842  (increased), with increase:  557
+7877  (increased), with increase:  558
+7908  (increased), with increase:  559
+7934  (increased), with increase:  560
+7952  (increased), with increase:  561
+7987  (increased), with increase:  562
+8005  (increased), with increase:  563
+8034  (increased), with increase:  564
+8052  (increased), with increase:  565
+8057  (increased), with increase:  566
+8064  (increased), with increase:  567
+8064  (decreased)
+8094  (increased), with increase:  568
+8097  (increased), with increase:  569
+8113  (increased), with increase:  570
+8159  (increased), with increase:  571
+8215  (increased), with increase:  572
+8227  (increased), with increase:  573
+8197  (decreased)
+8169  (decreased)
+8188  (increased), with increase:  574
+8211  (increased), with increase:  575
+8240  (increased), with increase:  576
+8262  (increased), with increase:  577
+8280  (increased), with increase:  578
+8332  (increased), with increase:  579
+8375  (increased), with increase:  580
+8421  (increased), with increase:  581
+8427  (increased), with increase:  582
+8444  (increased), with increase:  583
+8488  (increased), with increase:  584
+8532  (increased), with increase:  585
+8561  (increased), with increase:  586
+8579  (increased), with increase:  587
+8597  (increased), with increase:  588
+8612  (increased), with increase:  589
+8616  (increased), with increase:  590
+8624  (increased), with increase:  591
+8642  (increased), with increase:  592
+8665  (increased), with increase:  593
+8684  (increased), with increase:  594
+8700  (increased), with increase:  595
+8704  (increased), with increase:  596
+8722  (increased), with increase:  597
+8733  (increased), with increase:  598
+8754  (increased), with increase:  599
+8751  (decreased)
+8759  (increased), with increase:  600
+8767  (increased), with increase:  601
+8794  (increased), with increase:  602
+8817  (increased), with increase:  603
+8819  (increased), with increase:  604
+8830  (increased), with increase:  605
+8847  (increased), with increase:  606
+8869  (increased), with increase:  607
+8873  (increased), with increase:  608
+8872  (decreased)
+8898  (increased), with increase:  609
+8932  (increased), with increase:  610
+8989  (increased), with increase:  611
+9025  (increased), with increase:  612
+9081  (increased), with increase:  613
+9097  (increased), with increase:  614
+9127  (increased), with increase:  615
+9131  (increased), with increase:  616
+9155  (increased), with increase:  617
+9170  (increased), with increase:  618
+9183  (increased), with increase:  619
+9190  (increased), with increase:  620
+9192  (increased), with increase:  621
+9194  (increased), with increase:  622
+9201  (increased), with increase:  623
+9211  (increased), with increase:  624
+9214  (increased), with increase:  625
+9219  (increased), with increase:  626
+9217  (decreased)
+9222  (increased), with increase:  627
+9230  (increased), with increase:  628
+9243  (increased), with increase:  629
+9266  (increased), with increase:  630
+9276  (increased), with increase:  631
+9272  (decreased)
+9252  (decreased)
+9257  (increased), with increase:  632
+9280  (increased), with increase:  633
+9331  (increased), with increase:  634
+9377  (increased), with increase:  635
+9420  (increased), with increase:  636
+9466  (increased), with increase:  637
+9495  (increased), with increase:  638
+9519  (increased), with increase:  639
+9516  (decreased)
+9512  (decreased)
+9516  (increased), with increase:  640
+9525  (increased), with increase:  641
+9522  (decreased)
+9511  (decreased)
+9513  (increased), with increase:  642
+9530  (increased), with increase:  643
+9571  (increased), with increase:  644
+9596  (increased), with increase:  645
+9621  (increased), with increase:  646
+9626  (increased), with increase:  647
+9634  (increased), with increase:  648
+9640  (increased), with increase:  649
+9649  (increased), with increase:  650
+9667  (increased), with increase:  651
+9687  (increased), with increase:  652
+9715  (increased), with increase:  653
+9731  (increased), with increase:  654
+9749  (increased), with increase:  655
+9754  (increased), with increase:  656
+9759  (increased), with increase:  657
+9763  (increased), with increase:  658
+9768  (increased), with increase:  659
+9780  (increased), with increase:  660
+9789  (increased), with increase:  661
+9797  (increased), with increase:  662
+9805  (increased), with increase:  663
+9831  (increased), with increase:  664
+9840  (increased), with increase:  665
+9857  (increased), with increase:  666
+9860  (increased), with increase:  667
+9884  (increased), with increase:  668
+9885  (increased), with increase:  669
+9884  (decreased)
+9891  (increased), with increase:  670
+9891  (decreased)
+9889  (decreased)
+9873  (decreased)
+9872  (decreased)
+9876  (increased), with increase:  671
+9882  (increased), with increase:  672
+9879  (decreased)
+9878  (decreased)
+9887  (increased), with increase:  673
+9907  (increased), with increase:  674
+9928  (increased), with increase:  675
+9942  (increased), with increase:  676
+9961  (increased), with increase:  677
+9978  (increased), with increase:  678
+9993  (increased), with increase:  679
+9998  (increased), with increase:  680
+10008  (increased), with increase:  681
+10020  (increased), with increase:  682
+10035  (increased), with increase:  683
+10041  (increased), with increase:  684
+10055  (increased), with increase:  685
+10078  (increased), with increase:  686
+10101  (increased), with increase:  687
+10114  (increased), with increase:  688
+10123  (increased), with increase:  689
+10139  (increased), with increase:  690
+10152  (increased), with increase:  691
+10162  (increased), with increase:  692
+10168  (increased), with increase:  693
+10180  (increased), with increase:  694
+10196  (increased), with increase:  695
+10209  (increased), with increase:  696
+10224  (increased), with increase:  697
+10236  (increased), with increase:  698
+10261  (increased), with increase:  699
+10281  (increased), with increase:  700
+10298  (increased), with increase:  701
+10305  (increased), with increase:  702
+10314  (increased), with increase:  703
+10323  (increased), with increase:  704
+10330  (increased), with increase:  705
+10334  (increased), with increase:  706
+10338  (increased), with increase:  707
+10341  (increased), with increase:  708
+10349  (increased), with increase:  709
+10341  (decreased)
+10343  (increased), with increase:  710
+10340  (decreased)
+10354  (increased), with increase:  711
+10356  (increased), with increase:  712
+10360  (increased), with increase:  713
+10369  (increased), with increase:  714
+10383  (increased), with increase:  715
+10403  (increased), with increase:  716
+10420  (increased), with increase:  717
+10430  (increased), with increase:  718
+10434  (increased), with increase:  719
+10435  (increased), with increase:  720
+10443  (increased), with increase:  721
+10450  (increased), with increase:  722
+10459  (increased), with increase:  723
+10466  (increased), with increase:  724
+10485  (increased), with increase:  725
+10502  (increased), with increase:  726
+10521  (increased), with increase:  727
+10529  (increased), with increase:  728
+10553  (increased), with increase:  729
+10575  (increased), with increase:  730
+10599  (increased), with increase:  731
+10609  (increased), with increase:  732
+10619  (increased), with increase:  733
+10635  (increased), with increase:  734
+10653  (increased), with increase:  735
+10681  (increased), with increase:  736
+10697  (increased), with increase:  737
+10709  (increased), with increase:  738
+10708  (decreased)
+10709  (increased), with increase:  739
+10704  (decreased)
+10694  (decreased)
+10685  (decreased)
+10676  (decreased)
+10674  (decreased)
+10688  (increased), with increase:  740
+10717  (increased), with increase:  741
+10750  (increased), with increase:  742
+10767  (increased), with increase:  743
+10775  (increased), with increase:  744
+10787  (increased), with increase:  745
+10814  (increased), with increase:  746
+10844  (increased), with increase:  747
+10866  (increased), with increase:  748
+10916  (increased), with increase:  749
+10964  (increased), with increase:  750
+11012  (increased), with increase:  751
+11026  (increased), with increase:  752
+11041  (increased), with increase:  753
+11068  (increased), with increase:  754
+11093  (increased), with increase:  755
+11116  (increased), with increase:  756
+11131  (increased), with increase:  757
+11136  (increased), with increase:  758
+11145  (increased), with increase:  759
+11150  (increased), with increase:  760
+11179  (increased), with increase:  761
+11190  (increased), with increase:  762
+11201  (increased), with increase:  763
+11190  (decreased)
+11190  (decreased)
+11187  (decreased)
+11197  (increased), with increase:  764
+11210  (increased), with increase:  765
+11224  (increased), with increase:  766
+11225  (increased), with increase:  767
+11217  (decreased)
+11216  (decreased)
+11218  (increased), with increase:  768
+11218  (decreased)
+11215  (decreased)
+11209  (decreased)
+11214  (increased), with increase:  769
+11236  (increased), with increase:  770
+11258  (increased), with increase:  771
+11280  (increased), with increase:  772
+11271  (decreased)
+11262  (decreased)
+11254  (decreased)
+11249  (decreased)
+11242  (decreased)
+11220  (decreased)
+11208  (decreased)
+11189  (decreased)
+11208  (increased), with increase:  773
+11232  (increased), with increase:  774
+11274  (increased), with increase:  775
+11292  (increased), with increase:  776
+11309  (increased), with increase:  777
+11319  (increased), with increase:  778
+11342  (increased), with increase:  779
+11383  (increased), with increase:  780
+11422  (increased), with increase:  781
+11448  (increased), with increase:  782
+11452  (increased), with increase:  783
+11456  (increased), with increase:  784
+11464  (increased), with increase:  785
+11480  (increased), with increase:  786
+11496  (increased), with increase:  787
+11529  (increased), with increase:  788
+11555  (increased), with increase:  789
+11579  (increased), with increase:  790
+11565  (decreased)
+11550  (decreased)
+11537  (decreased)
+11570  (increased), with increase:  791
+11630  (increased), with increase:  792
+11693  (increased), with increase:  793
+11728  (increased), with increase:  794
+11762  (increased), with increase:  795
+11793  (increased), with increase:  796
+11856  (increased), with increase:  797
+11896  (increased), with increase:  798
+11938  (increased), with increase:  799
+11950  (increased), with increase:  800
+11986  (increased), with increase:  801
+12031  (increased), with increase:  802
+12091  (increased), with increase:  803
+12141  (increased), with increase:  804
+12174  (increased), with increase:  805
+12185  (increased), with increase:  806
+12180  (decreased)
+12185  (increased), with increase:  807
+12215  (increased), with increase:  808
+12243  (increased), with increase:  809
+12269  (increased), with increase:  810
+12279  (increased), with increase:  811
+12295  (increased), with increase:  812
+12313  (increased), with increase:  813
+12326  (increased), with increase:  814
+12324  (decreased)
+12322  (decreased)
+12293  (decreased)
+12277  (decreased)
+12255  (decreased)
+12260  (increased), with increase:  815
+12255  (decreased)
+12252  (decreased)
+12249  (decreased)
+12271  (increased), with increase:  816
+12298  (increased), with increase:  817
+12325  (increased), with increase:  818
+12340  (increased), with increase:  819
+12358  (increased), with increase:  820
+12380  (increased), with increase:  821
+12374  (decreased)
+12375  (increased), with increase:  822
+12370  (decreased)
+12386  (increased), with increase:  823
+12378  (decreased)
+12373  (decreased)
+12370  (decreased)
+12381  (increased), with increase:  824
+12391  (increased), with increase:  825
+12408  (increased), with increase:  826
+12425  (increased), with increase:  827
+12440  (increased), with increase:  828
+12444  (increased), with increase:  829
+12440  (decreased)
+12434  (decreased)
+12430  (decreased)
+12431  (increased), with increase:  830
+12427  (decreased)
+12423  (decreased)
+12418  (decreased)
+12427  (increased), with increase:  831
+12436  (increased), with increase:  832
+12455  (increased), with increase:  833
+12464  (increased), with increase:  834
+12478  (increased), with increase:  835
+12491  (increased), with increase:  836
+12514  (increased), with increase:  837
+12533  (increased), with increase:  838
+12550  (increased), with increase:  839
+12562  (increased), with increase:  840
+12571  (increased), with increase:  841
+12572  (increased), with increase:  842
+12573  (increased), with increase:  843
+12576  (increased), with increase:  844
+12579  (increased), with increase:  845
+12595  (increased), with increase:  846
+12613  (increased), with increase:  847
+12634  (increased), with increase:  848
+12652  (increased), with increase:  849
+12664  (increased), with increase:  850
+12676  (increased), with increase:  851
+12680  (increased), with increase:  852
+12707  (increased), with increase:  853
+12728  (increased), with increase:  854
+12765  (increased), with increase:  855
+12775  (increased), with increase:  856
+12801  (increased), with increase:  857
+12809  (increased), with increase:  858
+12827  (increased), with increase:  859
+12844  (increased), with increase:  860
+12867  (increased), with increase:  861
+12893  (increased), with increase:  862
+12916  (increased), with increase:  863
+12933  (increased), with increase:  864
+12946  (increased), with increase:  865
+12951  (increased), with increase:  866
+12961  (increased), with increase:  867
+12970  (increased), with increase:  868
+12978  (increased), with increase:  869
+13002  (increased), with increase:  870
+13021  (increased), with increase:  871
+13050  (increased), with increase:  872
+13061  (increased), with increase:  873
+13081  (increased), with increase:  874
+13091  (increased), with increase:  875
+13101  (increased), with increase:  876
+13121  (increased), with increase:  877
+13139  (increased), with increase:  878
+13155  (increased), with increase:  879
+13169  (increased), with increase:  880
+13208  (increased), with increase:  881
+13219  (increased), with increase:  882
+13230  (increased), with increase:  883
+13216  (decreased)
+13207  (decreased)
+13190  (decreased)
+13178  (decreased)
+13192  (increased), with increase:  884
+13202  (increased), with increase:  885
+13223  (increased), with increase:  886
+13234  (increased), with increase:  887
+13249  (increased), with increase:  888
+13248  (decreased)
+13253  (increased), with increase:  889
+13257  (increased), with increase:  890
+13251  (decreased)
+13207  (decreased)
+13188  (decreased)
+13189  (increased), with increase:  891
+13242  (increased), with increase:  892
+13284  (increased), with increase:  893
+13321  (increased), with increase:  894
+13347  (increased), with increase:  895
+13360  (increased), with increase:  896
+13370  (increased), with increase:  897
+13382  (increased), with increase:  898
+13371  (decreased)
+13360  (decreased)
+13345  (decreased)
+13358  (increased), with increase:  899
+13374  (increased), with increase:  900
+13389  (increased), with increase:  901
+13396  (increased), with increase:  902
+13404  (increased), with increase:  903
+13425  (increased), with increase:  904
+13442  (increased), with increase:  905
+13452  (increased), with increase:  906
+13473  (increased), with increase:  907
+13501  (increased), with increase:  908
+13544  (increased), with increase:  909
+13561  (increased), with increase:  910
+13574  (increased), with increase:  911
+13576  (increased), with increase:  912
+13574  (decreased)
+13570  (decreased)
+13567  (decreased)
+13595  (increased), with increase:  913
+13625  (increased), with increase:  914
+13653  (increased), with increase:  915
+13653  (decreased)
+13656  (increased), with increase:  916
+13659  (increased), with increase:  917
+13695  (increased), with increase:  918
+13719  (increased), with increase:  919
+13746  (increased), with increase:  920
+13754  (increased), with increase:  921
+13764  (increased), with increase:  922
+13774  (increased), with increase:  923
+13775  (increased), with increase:  924
+13785  (increased), with increase:  925
+13792  (increased), with increase:  926
+13811  (increased), with increase:  927
+13828  (increased), with increase:  928
+13852  (increased), with increase:  929
+13870  (increased), with increase:  930
+13888  (increased), with increase:  931
+13920  (increased), with increase:  932
+13949  (increased), with increase:  933
+13978  (increased), with increase:  934
+14013  (increased), with increase:  935
+14041  (increased), with increase:  936
+14069  (increased), with increase:  937
+14073  (increased), with increase:  938
+14088  (increased), with increase:  939
+14103  (increased), with increase:  940
+14103  (decreased)
+14096  (decreased)
+14093  (decreased)
+14102  (increased), with increase:  941
+14109  (increased), with increase:  942
+14110  (increased), with increase:  943
+14116  (increased), with increase:  944
+14126  (increased), with increase:  945
+14145  (increased), with increase:  946
+14164  (increased), with increase:  947
+14191  (increased), with increase:  948
+14230  (increased), with increase:  949
+14269  (increased), with increase:  950
+14296  (increased), with increase:  951
+14305  (increased), with increase:  952
+14313  (increased), with increase:  953
+14323  (increased), with increase:  954
+14323  (decreased)
+14336  (increased), with increase:  955
+14347  (increased), with increase:  956
+14379  (increased), with increase:  957
+14396  (increased), with increase:  958
+14415  (increased), with increase:  959
+14424  (increased), with increase:  960
+14438  (increased), with increase:  961
+14442  (increased), with increase:  962
+14444  (increased), with increase:  963
+14446  (increased), with increase:  964
+14472  (increased), with increase:  965
+14498  (increased), with increase:  966
+14520  (increased), with increase:  967
+14499  (decreased)
+14481  (decreased)
+14462  (decreased)
+14465  (increased), with increase:  968
+14487  (increased), with increase:  969
+14508  (increased), with increase:  970
+14537  (increased), with increase:  971
+14546  (increased), with increase:  972
+14573  (increased), with increase:  973
+14597  (increased), with increase:  974
+14615  (increased), with increase:  975
+14628  (increased), with increase:  976
+14657  (increased), with increase:  977
+14707  (increased), with increase:  978
+14743  (increased), with increase:  979
+14764  (increased), with increase:  980
+14780  (increased), with increase:  981
+14789  (increased), with increase:  982
+14798  (increased), with increase:  983
+14795  (decreased)
+14796  (increased), with increase:  984
+14813  (increased), with increase:  985
+14854  (increased), with increase:  986
+14899  (increased), with increase:  987
+14927  (increased), with increase:  988
+14931  (increased), with increase:  989
+14945  (increased), with increase:  990
+14959  (increased), with increase:  991
+14982  (increased), with increase:  992
+14994  (increased), with increase:  993
+15004  (increased), with increase:  994
+15030  (increased), with increase:  995
+15054  (increased), with increase:  996
+15074  (increased), with increase:  997
+15101  (increased), with increase:  998
+15130  (increased), with increase:  999
+15165  (increased), with increase:  1000
+15170  (increased), with increase:  1001
+15179  (increased), with increase:  1002
+15188  (increased), with increase:  1003
+15203  (increased), with increase:  1004
+15220  (increased), with increase:  1005
+15248  (increased), with increase:  1006
+15269  (increased), with increase:  1007
+15288  (increased), with increase:  1008
+15308  (increased), with increase:  1009
+15338  (increased), with increase:  1010
+15364  (increased), with increase:  1011
+15388  (increased), with increase:  1012
+15405  (increased), with increase:  1013
+15402  (decreased)
+15383  (decreased)
+15358  (decreased)
+15353  (decreased)
+15360  (increased), with increase:  1014
+15378  (increased), with increase:  1015
+15402  (increased), with increase:  1016
+15431  (increased), with increase:  1017
+15461  (increased), with increase:  1018
+15477  (increased), with increase:  1019
+15469  (decreased)
+15452  (decreased)
+15443  (decreased)
+15460  (increased), with increase:  1020
+15488  (increased), with increase:  1021
+15516  (increased), with increase:  1022
+15522  (increased), with increase:  1023
+15517  (decreased)
+15508  (decreased)
+15525  (increased), with increase:  1024
+15545  (increased), with increase:  1025
+15573  (increased), with increase:  1026
+15584  (increased), with increase:  1027
+15617  (increased), with increase:  1028
+15647  (increased), with increase:  1029
+15674  (increased), with increase:  1030
+15665  (decreased)
+15652  (decreased)
+15642  (decreased)
+15625  (decreased)
+15613  (decreased)
+15601  (decreased)
+15616  (increased), with increase:  1031
+15629  (increased), with increase:  1032
+15643  (increased), with increase:  1033
+15681  (increased), with increase:  1034
+15722  (increased), with increase:  1035
+15765  (increased), with increase:  1036
+15776  (increased), with increase:  1037
+15780  (increased), with increase:  1038
+15782  (increased), with increase:  1039
+15784  (increased), with increase:  1040
+15798  (increased), with increase:  1041
+15818  (increased), with increase:  1042
+15808  (decreased)
+15800  (decreased)
+15799  (decreased)
+15834  (increased), with increase:  1043
+15863  (increased), with increase:  1044
+15881  (increased), with increase:  1045
+15901  (increased), with increase:  1046
+15917  (increased), with increase:  1047
+15917  (decreased)
+15905  (decreased)
+15901  (decreased)
+15914  (increased), with increase:  1048
+15918  (increased), with increase:  1049
+15918  (decreased)
+15896  (decreased)
+15882  (decreased)
+15876  (decreased)
+15886  (increased), with increase:  1050
+15900  (increased), with increase:  1051
+15908  (increased), with increase:  1052
+15923  (increased), with increase:  1053
+15945  (increased), with increase:  1054
+15966  (increased), with increase:  1055
+15982  (increased), with increase:  1056
+15983  (increased), with increase:  1057
+15979  (decreased)
+15981  (increased), with increase:  1058
+15992  (increased), with increase:  1059
+15999  (increased), with increase:  1060
+16000  (increased), with increase:  1061
+15999  (decreased)
+16004  (increased), with increase:  1062
+16016  (increased), with increase:  1063
+16033  (increased), with increase:  1064
+16051  (increased), with increase:  1065
+16070  (increased), with increase:  1066
+16085  (increased), with increase:  1067
+16112  (increased), with increase:  1068
+16139  (increased), with increase:  1069
+16181  (increased), with increase:  1070
+16199  (increased), with increase:  1071
+16210  (increased), with increase:  1072
+16207  (decreased)
+16197  (decreased)
+16186  (decreased)
+16175  (decreased)
+16192  (increased), with increase:  1073
+16210  (increased), with increase:  1074
+16226  (increased), with increase:  1075
+16230  (increased), with increase:  1076
+16233  (increased), with increase:  1077
+16239  (increased), with increase:  1078
+16240  (increased), with increase:  1079
+16252  (increased), with increase:  1080
+16262  (increased), with increase:  1081
+16275  (increased), with increase:  1082
+16277  (increased), with increase:  1083
+16285  (increased), with increase:  1084
+16281  (decreased)
+16288  (increased), with increase:  1085
+16294  (increased), with increase:  1086
+16314  (increased), with increase:  1087
+16316  (increased), with increase:  1088
+16300  (decreased)
+16276  (decreased)
+16254  (decreased)
+16244  (decreased)
+16242  (decreased)
+16247  (increased), with increase:  1089
+16253  (increased), with increase:  1090
+16259  (increased), with increase:  1091
+16285  (increased), with increase:  1092
+16307  (increased), with increase:  1093
+16319  (increased), with increase:  1094
+16310  (decreased)
+16304  (decreased)
+16308  (increased), with increase:  1095
+16280  (decreased)
+16250  (decreased)
+16237  (decreased)
+16257  (increased), with increase:  1096
+16284  (increased), with increase:  1097
+16294  (increased), with increase:  1098
+16305  (increased), with increase:  1099
+16313  (increased), with increase:  1100
+16322  (increased), with increase:  1101
+16328  (increased), with increase:  1102
+16332  (increased), with increase:  1103
+16335  (increased), with increase:  1104
+16344  (increased), with increase:  1105
+16363  (increased), with increase:  1106
+16382  (increased), with increase:  1107
+16407  (increased), with increase:  1108
+16417  (increased), with increase:  1109
+16414  (decreased)
+16399  (decreased)
+16416  (increased), with increase:  1110
+16452  (increased), with increase:  1111
+16488  (increased), with increase:  1112
+16497  (increased), with increase:  1113
+16500  (increased), with increase:  1114
+16505  (increased), with increase:  1115
+16511  (increased), with increase:  1116
+16540  (increased), with increase:  1117
+16560  (increased), with increase:  1118
+16571  (increased), with increase:  1119
+16562  (decreased)
+16568  (increased), with increase:  1120
+16583  (increased), with increase:  1121
+16600  (increased), with increase:  1122
+16614  (increased), with increase:  1123
+16623  (increased), with increase:  1124
+16639  (increased), with increase:  1125
+16651  (increased), with increase:  1126
+16663  (increased), with increase:  1127
+16663  (decreased)
+16663  (decreased)
+16672  (increased), with increase:  1128
+16681  (increased), with increase:  1129
+16693  (increased), with increase:  1130
+16703  (increased), with increase:  1131
+16724  (increased), with increase:  1132
+16737  (increased), with increase:  1133
+16749  (increased), with increase:  1134
+16747  (decreased)
+16752  (increased), with increase:  1135
+16756  (increased), with increase:  1136
+16773  (increased), with increase:  1137
+16789  (increased), with increase:  1138
+16804  (increased), with increase:  1139
+16806  (increased), with increase:  1140
+16814  (increased), with increase:  1141
+16818  (increased), with increase:  1142
+16819  (increased), with increase:  1143
+16813  (decreased)
+16806  (decreased)
+16806  (decreased)
+16807  (increased), with increase:  1144
+16813  (increased), with increase:  1145
+16819  (increased), with increase:  1146
+16820  (increased), with increase:  1147
+16824  (increased), with increase:  1148
+16835  (increased), with increase:  1149
+16849  (increased), with increase:  1150
+16858  (increased), with increase:  1151
+16862  (increased), with increase:  1152
+16866  (increased), with increase:  1153
+16873  (increased), with increase:  1154
+16877  (increased), with increase:  1155
+16881  (increased), with increase:  1156
+16885  (increased), with increase:  1157
+16895  (increased), with increase:  1158
+16917  (increased), with increase:  1159
+16961  (increased), with increase:  1160
+17001  (increased), with increase:  1161
+17012  (increased), with increase:  1162
+17007  (decreased)
+17005  (decreased)
+17020  (increased), with increase:  1163
+17032  (increased), with increase:  1164
+17042  (increased), with increase:  1165
+17053  (increased), with increase:  1166
+17081  (increased), with increase:  1167
+17109  (increased), with increase:  1168
+17136  (increased), with increase:  1169
+17151  (increased), with increase:  1170
+17166  (increased), with increase:  1171
+17181  (increased), with increase:  1172
+17184  (increased), with increase:  1173
+17197  (increased), with increase:  1174
+17223  (increased), with increase:  1175
+17237  (increased), with increase:  1176
+17226  (decreased)
+17195  (decreased)
+17181  (decreased)
+17177  (decreased)
+17183  (increased), with increase:  1177
+17187  (increased), with increase:  1178
+17193  (increased), with increase:  1179
+17197  (increased), with increase:  1180
+17199  (increased), with increase:  1181
+17201  (increased), with increase:  1182
+17202  (increased), with increase:  1183
+17205  (increased), with increase:  1184
+17208  (increased), with increase:  1185
+17209  (increased), with increase:  1186
+17203  (decreased)
+17198  (decreased)
+17204  (increased), with increase:  1187
+17218  (increased), with increase:  1188
+17233  (increased), with increase:  1189
+17246  (increased), with increase:  1190
+17262  (increased), with increase:  1191
+17270  (increased), with increase:  1192
+17272  (increased), with increase:  1193
+17280  (increased), with increase:  1194
+17318  (increased), with increase:  1195
+17359  (increased), with increase:  1196
+17390  (increased), with increase:  1197
+17402  (increased), with increase:  1198
+17412  (increased), with increase:  1199
+17423  (increased), with increase:  1200
+17430  (increased), with increase:  1201
+17436  (increased), with increase:  1202
+17441  (increased), with increase:  1203
+17446  (increased), with increase:  1204
+17482  (increased), with increase:  1205
+17518  (increased), with increase:  1206
+17540  (increased), with increase:  1207
+17550  (increased), with increase:  1208
+17569  (increased), with increase:  1209
+17601  (increased), with increase:  1210
+17620  (increased), with increase:  1211
+17636  (increased), with increase:  1212
+17662  (increased), with increase:  1213
+17687  (increased), with increase:  1214
+17709  (increased), with increase:  1215
+17719  (increased), with increase:  1216
+17726  (increased), with increase:  1217
+17728  (increased), with increase:  1218
+17735  (increased), with increase:  1219
+17740  (increased), with increase:  1220
+17747  (increased), with increase:  1221
+17752  (increased), with increase:  1222
+17753  (increased), with increase:  1223
+17764  (increased), with increase:  1224
+17775  (increased), with increase:  1225
+17789  (increased), with increase:  1226
+17793  (increased), with increase:  1227
+17804  (increased), with increase:  1228
+17817  (increased), with increase:  1229
+17831  (increased), with increase:  1230
+17841  (increased), with increase:  1231
+17828  (decreased)
+17787  (decreased)
+17766  (decreased)
+17771  (increased), with increase:  1232
+17803  (increased), with increase:  1233
+17808  (increased), with increase:  1234
+17808  (decreased)
+17813  (increased), with increase:  1235
+17822  (increased), with increase:  1236
+17837  (increased), with increase:  1237
+17811  (decreased)
+17766  (decreased)
+17707  (decreased)
+17682  (decreased)
+17685  (increased), with increase:  1238
+17700  (increased), with increase:  1239
+17760  (increased), with increase:  1240
+17810  (increased), with increase:  1241
+17860  (increased), with increase:  1242
+17867  (increased), with increase:  1243
+17876  (increased), with increase:  1244
+17884  (increased), with increase:  1245
+17895  (increased), with increase:  1246
+17908  (increased), with increase:  1247
+17918  (increased), with increase:  1248
+17902  (decreased)
+17884  (decreased)
+17874  (decreased)
+17906  (increased), with increase:  1249
+17937  (increased), with increase:  1250
+17989  (increased), with increase:  1251
+18020  (increased), with increase:  1252
+18050  (increased), with increase:  1253
+18023  (decreased)
+17998  (decreased)
+17980  (decreased)
+17983  (increased), with increase:  1254
+17987  (increased), with increase:  1255
+18004  (increased), with increase:  1256
+18028  (increased), with increase:  1257
+18047  (increased), with increase:  1258
+18080  (increased), with increase:  1259
+18105  (increased), with increase:  1260
+18144  (increased), with increase:  1261
+18150  (increased), with increase:  1262
+18176  (increased), with increase:  1263
+18192  (increased), with increase:  1264
+18211  (increased), with increase:  1265
+18215  (increased), with increase:  1266
+18225  (increased), with increase:  1267
+18225  (decreased)
+18229  (increased), with increase:  1268
+18216  (decreased)
+18207  (decreased)
+18198  (decreased)
+18230  (increased), with increase:  1269
+18269  (increased), with increase:  1270
+18318  (increased), with increase:  1271
+18335  (increased), with increase:  1272
+18344  (increased), with increase:  1273
+18327  (decreased)
+18312  (decreased)
+18300  (decreased)
+18301  (increased), with increase:  1274
+18312  (increased), with increase:  1275
+18326  (increased), with increase:  1276
+18366  (increased), with increase:  1277
+18361  (decreased)
+18353  (decreased)
+18330  (decreased)
+18355  (increased), with increase:  1278
+18383  (increased), with increase:  1279
+18410  (increased), with increase:  1280
+18397  (decreased)
+18375  (decreased)
+18349  (decreased)
+18359  (increased), with increase:  1281
+18375  (increased), with increase:  1282
+18392  (increased), with increase:  1283
+18402  (increased), with increase:  1284
+18416  (increased), with increase:  1285
+18425  (increased), with increase:  1286
+18429  (increased), with increase:  1287
+18430  (increased), with increase:  1288
+18431  (increased), with increase:  1289
+18433  (increased), with increase:  1290
+18436  (increased), with increase:  1291
+18442  (increased), with increase:  1292
+18447  (increased), with increase:  1293
+18450  (increased), with increase:  1294
+18450  (decreased)
+18436  (decreased)
+18422  (decreased)
+18403  (decreased)
+18386  (decreased)
+18363  (decreased)
+18351  (decreased)
+18350  (decreased)
+18355  (increased), with increase:  1295
+18357  (increased), with increase:  1296
+18365  (increased), with increase:  1297
+18373  (increased), with increase:  1298
+18375  (increased), with increase:  1299
+18381  (increased), with increase:  1300
+18387  (increased), with increase:  1301
+18398  (increased), with increase:  1302
+18403  (increased), with increase:  1303
+18425  (increased), with increase:  1304
+18450  (increased), with increase:  1305
+18481  (increased), with increase:  1306
+18506  (increased), with increase:  1307
+18527  (increased), with increase:  1308
+18546  (increased), with increase:  1309
+18563  (increased), with increase:  1310
+18607  (increased), with increase:  1311
+18649  (increased), with increase:  1312
+18685  (increased), with increase:  1313
+18681  (decreased)
+18691  (increased), with increase:  1314
+18708  (increased), with increase:  1315
+18739  (increased), with increase:  1316
+18755  (increased), with increase:  1317
+18762  (increased), with increase:  1318
+18770  (increased), with increase:  1319
+18785  (increased), with increase:  1320
+18800  (increased), with increase:  1321
+18803  (increased), with increase:  1322
+18806  (increased), with increase:  1323
+18806  (decreased)
+18815  (increased), with increase:  1324
+18814  (decreased)
+18828  (increased), with increase:  1325
+18864  (increased), with increase:  1326
+18912  (increased), with increase:  1327
+18954  (increased), with increase:  1328
+18980  (increased), with increase:  1329
+18998  (increased), with increase:  1330
+19027  (increased), with increase:  1331
+19078  (increased), with increase:  1332
+19121  (increased), with increase:  1333
+19152  (increased), with increase:  1334
+19162  (increased), with increase:  1335
+19178  (increased), with increase:  1336
+19183  (increased), with increase:  1337
+19183  (decreased)
+19185  (increased), with increase:  1338
+19193  (increased), with increase:  1339
+19199  (increased), with increase:  1340
+19197  (decreased)
+19196  (decreased)
+19195  (decreased)
+19179  (decreased)
+19159  (decreased)
+19139  (decreased)
+19136  (decreased)
+19154  (increased), with increase:  1341
+19172  (increased), with increase:  1342
+19191  (increased), with increase:  1343
+19209  (increased), with increase:  1344
+19230  (increased), with increase:  1345
+19272  (increased), with increase:  1346
+19306  (increased), with increase:  1347
+19352  (increased), with increase:  1348
+19373  (increased), with increase:  1349
+19385  (increased), with increase:  1350
+19383  (decreased)
+19390  (increased), with increase:  1351
+19421  (increased), with increase:  1352
+19451  (increased), with increase:  1353
+19487  (increased), with increase:  1354
+19496  (increased), with increase:  1355
+19506  (increased), with increase:  1356
+19514  (increased), with increase:  1357
+19524  (increased), with increase:  1358
+19533  (increased), with increase:  1359
+19528  (decreased)
+19523  (decreased)
+19519  (decreased)
+19539  (increased), with increase:  1360
+19556  (increased), with increase:  1361
+19578  (increased), with increase:  1362
+19589  (increased), with increase:  1363
+19601  (increased), with increase:  1364
+19610  (increased), with increase:  1365
+19618  (increased), with increase:  1366
+19628  (increased), with increase:  1367
+19623  (decreased)
+19611  (decreased)
+19603  (decreased)
+19611  (increased), with increase:  1368
+19622  (increased), with increase:  1369
+19629  (increased), with increase:  1370
+19632  (increased), with increase:  1371
+19648  (increased), with increase:  1372
+19664  (increased), with increase:  1373
+19696  (increased), with increase:  1374
+19715  (increased), with increase:  1375
+19735  (increased), with increase:  1376
+19739  (increased), with increase:  1377
+19743  (increased), with increase:  1378
+19754  (increased), with increase:  1379
+19770  (increased), with increase:  1380
+19769  (decreased)
+19773  (increased), with increase:  1381
+19784  (increased), with increase:  1382
+19823  (increased), with increase:  1383
+19852  (increased), with increase:  1384
+19876  (increased), with increase:  1385
+19892  (increased), with increase:  1386
+19907  (increased), with increase:  1387
+19912  (increased), with increase:  1388
+19921  (increased), with increase:  1389
+19930  (increased), with increase:  1390
+19943  (increased), with increase:  1391
+19949  (increased), with increase:  1392
+19946  (decreased)
+19944  (decreased)
+19954  (increased), with increase:  1393
+19967  (increased), with increase:  1394
+19978  (increased), with increase:  1395
+19985  (increased), with increase:  1396
+19994  (increased), with increase:  1397
+20001  (increased), with increase:  1398
+20017  (increased), with increase:  1399
+20050  (increased), with increase:  1400
+20085  (increased), with increase:  1401
+20131  (increased), with increase:  1402
+20167  (increased), with increase:  1403
+20212  (increased), with increase:  1404
+20231  (increased), with increase:  1405
+20245  (increased), with increase:  1406
+20250  (increased), with increase:  1407
+20242  (decreased)
+20220  (decreased)
+20198  (decreased)
+20219  (increased), with increase:  1408
+20254  (increased), with increase:  1409
+20317  (increased), with increase:  1410
+20350  (increased), with increase:  1411
+20383  (increased), with increase:  1412
+20404  (increased), with increase:  1413
+20436  (increased), with increase:  1414
+20475  (increased), with increase:  1415
+20505  (increased), with increase:  1416
+20522  (increased), with increase:  1417
+20539  (increased), with increase:  1418
+20550  (increased), with increase:  1419
+20562  (increased), with increase:  1420
+20578  (increased), with increase:  1421
+20594  (increased), with increase:  1422
+20614  (increased), with increase:  1423
+20620  (increased), with increase:  1424
+20615  (decreased)
+20609  (decreased)
+20602  (decreased)
+20607  (increased), with increase:  1425
+20614  (increased), with increase:  1426
+20634  (increased), with increase:  1427
+20645  (increased), with increase:  1428
+20637  (decreased)
+20621  (decreased)
+20614  (decreased)
+20620  (increased), with increase:  1429
+20625  (increased), with increase:  1430
+20653  (increased), with increase:  1431
+20681  (increased), with increase:  1432
+20706  (increased), with increase:  1433
+20706  (decreased)
+20715  (increased), with increase:  1434
+20727  (increased), with increase:  1435
+20737  (increased), with increase:  1436
+20738  (increased), with increase:  1437
+20752  (increased), with increase:  1438
+20768  (increased), with increase:  1439
+20790  (increased), with increase:  1440
+20799  (increased), with increase:  1441
+20813  (increased), with increase:  1442
+20821  (increased), with increase:  1443
+20827  (increased), with increase:  1444
+20828  (increased), with increase:  1445
+20838  (increased), with increase:  1446
+20850  (increased), with increase:  1447
+20868  (increased), with increase:  1448
+20904  (increased), with increase:  1449
+20942  (increased), with increase:  1450
+20974  (increased), with increase:  1451
+20982  (increased), with increase:  1452
+21008  (increased), with increase:  1453
+21037  (increased), with increase:  1454
+21081  (increased), with increase:  1455
+21115  (increased), with increase:  1456
+21148  (increased), with increase:  1457
+21165  (increased), with increase:  1458
+21162  (decreased)
+21157  (decreased)
+21150  (decreased)
+21148  (decreased)
+21162  (increased), with increase:  1459
+21170  (increased), with increase:  1460
+21197  (increased), with increase:  1461
+21215  (increased), with increase:  1462
+21239  (increased), with increase:  1463
+21262  (increased), with increase:  1464
+21282  (increased), with increase:  1465
+21291  (increased), with increase:  1466
+21288  (decreased)
+21287  (decreased)
+21338  (increased), with increase:  1467
+21409  (increased), with increase:  1468
+21484  (increased), with increase:  1469
+21519  (increased), with increase:  1470
+21537  (increased), with increase:  1471
+21541  (increased), with increase:  1472
+21566  (increased), with increase:  1473
+21587  (increased), with increase:  1474
+21614  (increased), with increase:  1475
+21622  (increased), with increase:  1476
+21635  (increased), with increase:  1477
+21648  (increased), with increase:  1478
+21649  (increased), with increase:  1479
+21647  (decreased)
+21644  (decreased)
+21655  (increased), with increase:  1480
+21647  (decreased)
+21644  (decreased)
+21634  (decreased)
+21642  (increased), with increase:  1481
+21642  (decreased)
+21641  (decreased)
+21645  (increased), with increase:  1482
+21657  (increased), with increase:  1483
+21670  (increased), with increase:  1484
+21681  (increased), with increase:  1485
+21694  (increased), with increase:  1486
+21709  (increased), with increase:  1487
+21720  (increased), with increase:  1488
+21729  (increased), with increase:  1489
+21736  (increased), with increase:  1490
+21749  (increased), with increase:  1491
+21759  (increased), with increase:  1492
+21774  (increased), with increase:  1493
+21800  (increased), with increase:  1494
+21840  (increased), with increase:  1495
+21875  (increased), with increase:  1496
+21902  (increased), with increase:  1497
+21912  (increased), with increase:  1498
+21931  (increased), with increase:  1499
+21938  (increased), with increase:  1500
+21969  (increased), with increase:  1501
+21993  (increased), with increase:  1502
+22038  (increased), with increase:  1503
+22055  (increased), with increase:  1504
+22098  (increased), with increase:  1505
+22121  (increased), with increase:  1506
+22150  (increased), with increase:  1507
+22164  (increased), with increase:  1508
+22181  (increased), with increase:  1509
+22206  (increased), with increase:  1510
+22246  (increased), with increase:  1511
+22287  (increased), with increase:  1512
+22316  (increased), with increase:  1513
+22336  (increased), with increase:  1514
+22351  (increased), with increase:  1515
+22374  (increased), with increase:  1516
+22380  (increased), with increase:  1517
+22389  (increased), with increase:  1518
+22392  (increased), with increase:  1519
+22406  (increased), with increase:  1520
+22420  (increased), with increase:  1521
+22449  (increased), with increase:  1522
+22472  (increased), with increase:  1523
+22501  (increased), with increase:  1524
+22519  (increased), with increase:  1525
+22566  (increased), with increase:  1526
+22617  (increased), with increase:  1527
+22664  (increased), with increase:  1528
+22688  (increased), with increase:  1529
+22702  (increased), with increase:  1530
+22718  (increased), with increase:  1531
+22755  (increased), with increase:  1532
+22816  (increased), with increase:  1533
+22877  (increased), with increase:  1534
+22898  (increased), with increase:  1535
+22893  (decreased)
+22890  (decreased)
+22896  (increased), with increase:  1536
+22909  (increased), with increase:  1537
+22935  (increased), with increase:  1538
+22963  (increased), with increase:  1539
+22999  (increased), with increase:  1540
+23034  (increased), with increase:  1541
+23079  (increased), with increase:  1542
+23103  (increased), with increase:  1543
+23106  (increased), with increase:  1544
+23080  (decreased)
+23063  (decreased)
+23041  (decreased)
+23023  (decreased)
+23011  (decreased)
+23011  (decreased)
+23016  (increased), with increase:  1545
+23015  (decreased)
+23012  (decreased)
+23027  (increased), with increase:  1546
+23044  (increased), with increase:  1547
+23073  (increased), with increase:  1548
+23101  (increased), with increase:  1549
+23154  (increased), with increase:  1550
+23180  (increased), with increase:  1551
+23201  (increased), with increase:  1552
+23195  (decreased)
+23204  (increased), with increase:  1553
+23208  (increased), with increase:  1554
+23217  (increased), with increase:  1555
+23229  (increased), with increase:  1556
+23241  (increased), with increase:  1557
+23247  (increased), with increase:  1558
+23235  (decreased)
+23223  (decreased)
+23225  (increased), with increase:  1559
+23244  (increased), with increase:  1560
+23263  (increased), with increase:  1561
+23268  (increased), with increase:  1562
+23304  (increased), with increase:  1563
+23338  (increased), with increase:  1564
+23366  (increased), with increase:  1565
+23366  (decreased)
+23388  (increased), with increase:  1566
+23428  (increased), with increase:  1567
+23453  (increased), with increase:  1568
+23460  (increased), with increase:  1569
+23459  (decreased)
+23472  (increased), with increase:  1570
+23508  (increased), with increase:  1571
+23530  (increased), with increase:  1572
+23555  (increased), with increase:  1573
+23527  (decreased)
+23512  (decreased)
+23493  (decreased)
+23502  (increased), with increase:  1574
+23516  (increased), with increase:  1575
+23529  (increased), with increase:  1576
+23554  (increased), with increase:  1577
+23571  (increased), with increase:  1578
+23587  (increased), with increase:  1579
+23573  (decreased)
+23569  (decreased)
+23582  (increased), with increase:  1580
+23613  (increased), with increase:  1581
+23643  (increased), with increase:  1582
+23651  (increased), with increase:  1583
+23654  (increased), with increase:  1584
+23644  (decreased)
+23642  (decreased)
+23645  (increased), with increase:  1585
+23649  (increased), with increase:  1586
+23649  (decreased)
+23666  (increased), with increase:  1587
+23700  (increased), with increase:  1588
+23739  (increased), with increase:  1589
+23747  (increased), with increase:  1590
+23746  (decreased)
+23753  (increased), with increase:  1591
+23786  (increased), with increase:  1592
+23824  (increased), with increase:  1593
+23849  (increased), with increase:  1594
+23858  (increased), with increase:  1595
+23872  (increased), with increase:  1596
+23881  (increased), with increase:  1597
+Total Increases:  1597
